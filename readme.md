@@ -1,7 +1,7 @@
 # Video Wallpaper Script
 
 A Python script that plays a video as your Windows desktop wallpaper. The script displays the video in a window while simultaneously updating your desktop wallpaper at regular intervals.
--ADDING EXE SOON
+- ADDING EXE SOON
 ## Features
 
 - Plays video in a window while updating desktop wallpaper
